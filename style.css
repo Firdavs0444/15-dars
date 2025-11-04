@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.aaa{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    margin-left: 100px ;
+    margin-top: 80px;
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    text-align: center;
+}
+
+.rrr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.mmm{
+    color: white;
+}
+
+.man{
+     background-color: red;
+    width: 400px;
+    height: 400px;
+    margin-left: 700px ;
+    margin-top: 80px;
+
+}
